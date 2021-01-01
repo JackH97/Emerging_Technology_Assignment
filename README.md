@@ -8,6 +8,7 @@ Write a Python function called sqrt2 that calculates and prints to the screen th
 <img src="Images/Sqrt2-var.png">
 
 After this i set out by creating a new variable call 'g' which has a multiplication of 10 x 100 in it which is the maths method for googol which stands for the digit 1 followed by 100 zeros. We create a while loop for a more accurate result for the square root and this involves doing division  specifically floor division to return the largest possible integer. 
+
 <img src="Images/Sqrt2-div.png">
 
 I then go about outputting the value by creating a list storing the 'g' variable to a new variable called 'store2', then create the inseration of the decimal point after the number 1, then have to join the rest of the numbers in 'store2' by creating a new variable called 'out_sqrt' and this will give me my result for the square root of 2 outputted to 100 decimal places.
